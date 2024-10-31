@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: recommend-by-mail-widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-07 21:48+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: jacques Malgrange <contacter@boiteasite.fr>\n"
+"Language-Team: boiteasite.fr\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../recommend-by-mail-widget.php:26
+msgid "Recommend by mail"
+msgstr "Recommande par mail"
+
+#: ../recommend-by-mail-widget.php:28
+msgid "Send a recommendation by email for this site to a friend"
+msgstr "Envoyer une recommandation par mail pour ce site à un ami"
+
+#: ../recommend-by-mail-widget.php:34
+#: ../recommend-by-mail-widget.php:48
+msgid "Recommend"
+msgstr "Recommande"
+
+#: ../recommend-by-mail-widget.php:44
+msgid "Title"
+msgstr "Titre"
+
+#: ../recommend-by-mail-widget.php:50
+msgid "The site"
+msgstr "Le site"
+
+#: ../recommend-by-mail-widget.php:51
+msgid "The current page"
+msgstr "La page courante"
+
+#: ../recommend-by-mail-widget.php:55
+msgid "Mail subject"
+msgstr "Sujet du mail"
+
+#: ../recommend-by-mail-widget.php:59
+msgid "Mail content"
+msgstr "Contenu du mail"
+
+#: ../recommend-by-mail-widget.php:62
+msgid "You can use : [name] to display the user name/login, [email] to display his email, [site] to display the name of the site."
+msgstr "Vous pouvez utiliser : {name] pour afficher le nom de l'utilisateur, [email] pour afficher son adresse email, [site] pour afficher le nom du site."
+
+#: ../recommend-by-mail-widget.php:66
+msgid "Limit by user"
+msgstr "Limite par utilisateur"
+
+#: ../recommend-by-mail-widget.php:68
+msgid "No limitation"
+msgstr "Pas de limite"
+
+#: ../recommend-by-mail-widget.php:69
+msgid "recommendation / day"
+msgstr "recommandation / jour"
+
+#: ../recommend-by-mail-widget.php:72
+msgid "recommendations / day"
+msgstr "recommandations / jour"
+
+#: ../recommend-by-mail-widget.php:102
+msgid "Send"
+msgstr "Envoyer"
+
+#: ../recommend-by-mail-widget.php:107
+msgid "Email sent successfully"
+msgstr "Email envoyé avec succès"
+
+#: ../recommend-by-mail-widget.php:108
+msgid "Error"
+msgstr "Erreur"
+
+#: ../recommend-by-mail-widget.php:109
+msgid "Number of daily recommendations reached"
+msgstr "Nombre de recommandations par jour dépassé"
+
+#~ msgid ""
+#~ "This plugin allows to import pages and media from GetSimple CMS to "
+#~ "WordPress."
+#~ msgstr ""
+#~ "Ce plugin permer d'insérer des pages et des médias depuis le CMS "
+#~ "GetSimple vers WordPress."
+
+#~ msgid "Copy the <strong>/data/</strong> folder from GetSimple."
+#~ msgstr "Copier le dossier <strong>/data/</strong> de GetSimple."
+
+#~ msgid ""
+#~ "Paste it into the <strong>/wp-content/uploads/</strong> folder of your "
+#~ "WordPress."
+#~ msgstr ""
+#~ "Le coller dans le dossier <strong>/wp-content/uploads/</strong> de votre "
+#~ "WordPress."
+
+#~ msgid "Check pages folder"
+#~ msgstr "Analyser le dossier des pages"
+
+#~ msgid "Cancel previous Import"
+#~ msgstr "Annuler le précédent import"
+
+#~ msgid "Select"
+#~ msgstr "Sélectionner"
+
+#~ msgid "Page name"
+#~ msgstr "Nom de la page"
+
+#~ msgid "Post format (not Page)"
+#~ msgstr "Post au lieu de Page"
+
+#~ msgid "Import selected pages"
+#~ msgstr "Importer les pages sélectionnées"
+
+#~ msgid "Add pages in a menu"
+#~ msgstr "Ajouter les pages au menu"
+
+#~ msgid "Yes"
+#~ msgstr "Oui"
+
+#~ msgid "No"
+#~ msgstr "Non"
+
+#~ msgid "Sub-pages level in the menu"
+#~ msgstr "Niveau de sous-pages dans le menu"
+
+#~ msgid "Permalink"
+#~ msgstr "Permalink"
+
+#~ msgid "Only display the page slug"
+#~ msgstr "Ne voir que le nom de la page"
+
+#~ msgid "Display all the parent pages"
+#~ msgstr "Voir aussi le nom des pages parents"
